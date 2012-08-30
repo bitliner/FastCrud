@@ -11,7 +11,7 @@ Some features:
 
 * you can add API for defined models simply in one line of code. It generates automatically urls and corresponding methods
 
-* you can use generic views to automatically generate urls and corresponding http request handlers and focus only on template to display, modify and create models, with just few lines of code. Generci views supported are: ListView (to list instances of a model), DetailsView (to display single model), CreateView and UpdateView 
+* you can use generic views to automatically generate urls and corresponding http request handlers and focus only on template to display, modify and create models, with just few lines of code. Generic views supported are: ListView (to list instances of a model), DetailsView (to display single model), CreateView and UpdateView 
 
 
 ## How to use it
