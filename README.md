@@ -1,4 +1,4 @@
-FastCrud
+!FastCrud
 ========
 
-FastCrud is node module that makes development od crud operations faster allowing to focus on frontend 
+FastCrud is node module that makes development of CRUD operations faster allowing to focus on frontend 
