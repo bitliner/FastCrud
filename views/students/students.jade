@@ -1,0 +1,6 @@
+extends ./layout
+
+block content
+	- for student in models
+		p 
+			a(href='/student/#{student._id}/') #{student.name} 

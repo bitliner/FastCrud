@@ -1,0 +1,21 @@
+{
+  "name": "fastcrud",
+  "description": "Make crud operations faster",
+  "url": "http://twitter.com/bitliner",
+  "author": {
+    "name": "Giovanni Gaglione",
+    "email": "giovanni.gaglione@gmail.com"
+  },
+  "dependencies": {
+    "mongoose": ""
+  },
+  "lib": ".",
+  "main": "main.js",
+  "version": "0.0.1",
+  "readme": "",
+  "_id": "fastcrud@0.0.1",
+  "dist": {
+    "shasum": "f7c93e0f87f2dfccae8aa4a7dbb4eb23118b3410"
+  },
+  "_from": ""
+}
