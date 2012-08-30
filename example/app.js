@@ -52,12 +52,12 @@ var StudentModel=FastCrud.Model({
 , School=FastCrud.get('School')
 
 
-var s=new School({
+var school=new School({
   name: 'Roma 3',
   address: 'via della Vasca Navale'
 })
 
-var s=new Student({
+var student=new Student({
   name: 'Marco DiLillo',
   age: 24,
   school: s
