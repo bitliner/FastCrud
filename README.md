@@ -121,9 +121,7 @@ Example of jade templates for DetailsView:
 
 ```jade
 
-block content
 	p Name: #{model.name} 
-	- var a=model.school
 	p School: #{model.school[0].name} 
 
 ```
