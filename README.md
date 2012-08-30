@@ -82,7 +82,11 @@ Generated urls are:
 
 ### Use generic view to build quickly page that display models
 
-Use **setGenericViews(app,options)** to quickly define urls and corresponding routes to display models.
+Use **setGenericViews(app,options)** to quickly define urls and corresponding routes to display models. It automatically generate corresponding urls, like:
+* /student/ (GET http method): url to list all Student models
+* /student/ (POST http method): url to create new Student model
+* /student/_id/ (GET http method): url to display a Details view about one Student model
+* and so on (...under construction...)  
 
 Parameters are:
 * **app**: the app object defined normally in app.js file
